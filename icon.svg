@@ -14,9 +14,9 @@
    viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="icon.svg"
-   inkscape:export-filename="/home/tristan/Scripts/8values/icon.png"
+   inkscape:export-filename="/home/felix.a/projects/2values.github.io/icon.png"
    inkscape:export-xdpi="96.000008"
    inkscape:export-ydpi="96.000008">
   <defs
@@ -29,17 +29,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="39.73325"
-     inkscape:cy="-179.05143"
+     inkscape:cx="324.46004"
+     inkscape:cy="-64.765716"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="958"
+     inkscape:window-height="1078"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:lockguides="true" />
   <metadata
      id="metadata5">
@@ -69,14 +69,14 @@
        ry="33.866665" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:143.58076477px;line-height:11.9650631px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-anchor:middle;opacity:1;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90944878;paint-order:normal"
-       x="69.51799"
-       y="279.59167"
-       id="text4487"><tspan
+       style="font-size:162.85787964px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="23.800266"
+       y="285.11694"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4485"
-         x="69.51799"
-         y="279.59167"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:143.58076477px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#222222;fill-opacity:1;stroke-width:0.26458332">8</tspan></text>
+         id="tspan2987"
+         x="23.800266"
+         y="285.11694">2</tspan></text>
   </g>
 </svg>
