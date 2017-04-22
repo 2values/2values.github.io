@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "When it looks like a cute, go for it.",
+        "question": "When it looks cute, go for it.",
         "effect": {
             "gay": -10,
         }
@@ -12,7 +12,7 @@ questions = [
         }
     },
     {
-        "question": "Thinking \"traps are gay\" isn't as bad as people say it is.",
+        "question": "Thinking that traps are gay isn't as bad as people say it is.",
         "effect": {
             "gay": 10,
         }
